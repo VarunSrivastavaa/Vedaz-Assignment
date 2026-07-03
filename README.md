@@ -2,7 +2,7 @@ Vedaz AI Astrologer — Technical Assessment
 This repository contains my submission for the AI/ML Engineer technical assessment: fine-tuning a Qwen model on astrology chat data, a guide for hosting the model on a VPS with vLLM, and sample training conversations.
 
 📁 Repository Structure
-.
+
 ├── finetune/
 │   ├── train.py            # LoRA/QLoRA fine-tuning script (Unsloth)
 │   ├── merge_lora.py       # Merges trained adapter into base model
